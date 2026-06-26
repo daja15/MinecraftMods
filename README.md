@@ -1,3 +1,5 @@
+Моди для майнкрафту версії 1.21.10 на основі fabric
+
 # Server
 1. [Alternate Current](https://modrinth.com/mod/alternate-current) - alternate-current-mc1.21.9-1.9.0.jar #server #single 
 2. [Ksyxis](https://modrinth.com/mod/ksyxis?version=1.20.1&loader=fabric) - Ksyxis-1.4.3.jar  #server #single 
