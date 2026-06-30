@@ -3,7 +3,8 @@
 # Server
 1. [Alternate Current](https://modrinth.com/mod/alternate-current) - alternate-current-mc1.21.9-1.9.0.jar #server #single 
 2. [Ksyxis](https://modrinth.com/mod/ksyxis?version=1.20.1&loader=fabric) - Ksyxis-1.4.3.jar  #server #single 
-3. [RightClickHarvest](https://modrinth.com/mod/rightclickharvest?version=1.20.1&loader=fabric) - rightclickharvest-fabric-4.6.1+1.21.10.jar #server #single 
+3. [RightClickHarvest](https://modrinth.com/mod/rightclickharvest?version=1.20.1&loader=fabric) - rightclickharvest-fabric-4.6.1+1.21.10.jar #server #single
+4. [WorldEdit](https://modrinth.com/plugin/worldedit?version=1.21.10&loader=fabric) - worldedit-mod-7.3.17.jar #server #single 
 # Client N Server - Без етого *НЕ* пустит на сервер
  1. [JamLib](https://modrinth.com/mod/jamlib?version=1.20.1&loader=fabric) - jamlib-fabric-1.3.6+1.21.10.jar #clientNserver 
  2. [Fzzy Config](https://modrinth.com/mod/fzzy-config?version=1.20.1&loader=fabric) -fzzy_config-0.7.6+1.21.9.jar #clientNserver 
